@@ -4,6 +4,19 @@ An integrated mechatronics and control engineering system featuring an Autonomou
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Hardware & Architecture](#hardware--architecture)
+- [Pinout Configuration](#pinout-configuration)
+- [Serial Command Protocol](#serial-command-protocol)
+- [Project Structure](#project-structure)
+- [Installation & Setup](#installation--setup)
+- [Circuit Schematic & Media](#circuit-schematic--media)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Dual Operational Modes**:
